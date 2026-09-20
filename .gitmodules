@@ -1,3 +1,9 @@
 [submodule "libs/assets/Icons/lucide"]
 	path = libs/assets/Icons/lucide
 	url = https://github.com/lucide-icons/lucide
+[submodule "libs/network/WireGuard-ESP32-Arduino"]
+	path = libs/network/WireGuard-ESP32-Arduino
+	url = git@github.com:FelipeDadison/WireGuard-ESP32-Arduino.git
+[submodule "libs/network/microlink"]
+	path = libs/network/microlink
+	url = git@github.com:CSCMe/microlink.git
